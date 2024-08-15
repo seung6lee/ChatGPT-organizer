@@ -1,0 +1,52 @@
+{
+    "tags": ["📚 Study", "💻 Develop", "📺 Video"],
+    "items": {
+        "📚 Study": [
+            {
+                "title": "First",
+                "url": "https://seung6lee.com",
+                "description": "Chat with the gpt about seung6lee's life",
+                "image": "https://picsum.photos/200/300"
+            },
+            {
+                "title": "Second",
+                "url": "https://youtube.com",
+                "description": "What is a math?",
+                "image": "https://picsum.photos/300/450"
+            },
+            {
+                "title": "Third",
+                "url": "https://youtube.com",
+                "description": "What is a math?",
+                "image": "https://picsum.photos/400/600"
+            },
+            {
+                "title": "Fourth",
+                "url": "https://youtube.com",
+                "description": "What is a math?",
+                "image": "https://picsum.photos/500/750"
+            },
+            {
+                "title": "Fifth",
+                "url": "https://youtube.com",
+                "description": "What is a math?",
+                "image": "https://picsum.photos/600/900"
+            }
+        ],
+        "💻 Develop": [
+            {
+                "title": "svelte",
+                "url": "https://svelte.dev/",
+                "description": "Chat about svelte",
+                "image": "https://www.devoteam.com/wp-content/uploads/2024/02/svelte-logo.png"
+            },
+            {
+                "title": "GPT Organizer",
+                "url": "/",
+                "description": "Fantastic",
+                "image": "https://picsum.photos/200/300"
+            }
+        ],
+        "📺 Video": []
+    }
+}
